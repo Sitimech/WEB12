@@ -1,0 +1,29 @@
+h1{
+  font-family: 'Times New Roman';
+  color: greenyellow;
+}
+p{
+  font-family: 'Times New Roman';
+}
+
+
+#calc{
+  font-family: Verdana;
+  font-size: 12pt;
+  font-weight: bold;
+  color: white;
+  background-color: greenyellow;
+  border-radius: 30px;
+  text-decoration: none;
+  border: 1px solid greenyellow;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#calc:hover{
+  color: greenyellow;
+  background-color: white;
+  border-radius: 30px;
+  border: 1px solid greenyellow;
+}
